@@ -48,7 +48,7 @@ main {
    to get an idea of some of the style properties you will need to use; then
    complete the style code according to the instructions in Canvas. */
 
-/* NOTE: While you will be using some of the same CSS properties, the VALUES 
+/* NOTE: While you will be using some of the same CSS properties, the VALUES
    may need to be different in order to style the page correctly. */
 
 
@@ -64,8 +64,55 @@ h1 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
 }
-
-
+h2 {
+      text-transform: uppercase;
+      font-size:3rem;
+      margin: 0;
+      letter-spacing: .25rem;
+      font-weight: normal;
+      color:darkred;
+      text-shadow:.09375rem .09375rem .09375rem #000;
+      font-family:'Alfa Slab One', Garamond, serif;
+      text-align:center;
+}
+h3 {
+    text-transform: uppercase;
+    font-size:2rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    color:black;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
+h4 {
+    text-transform: uppercase;
+    font-size:1.5rem;
+    margin: 0;
+    letter-spacing: .25rem;
+    padding-bottom: 1.125rem;
+    font-weight: normal;
+    color:darkred;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
+h5 {
+    text-transform: uppercase;
+    font-size:1rem;
+    margin-top: .25rem;
+    margin: 0;
+    font-weight: normal;
+    letter-spacing: .5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color:darkred #FFF;
+    background-color: #333;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
 /* Section & Paragraph */
 
 
@@ -75,5 +122,3 @@ h1 {
 
 
 /* Footer */
-
-
