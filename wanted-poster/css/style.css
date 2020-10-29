@@ -34,7 +34,7 @@ body {
 }
 main {
     background-color:#ddd;
-    background-image:url(images/wrinkled-white-paper-background.jpg);
+    background-image:url(../images/wrinkled-white-paper-background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
@@ -113,7 +113,9 @@ h5 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
 }
-/* Section & Paragraph */
+section{
+
+}
 
 
 
