@@ -120,8 +120,6 @@ header, footer {
    }
 
 
-   /* Link Styling */
-
    a {
        outline: none;
    }
@@ -185,4 +183,4 @@ header, footer {
 
    footer {
        text-align: center;
-   } 
+   }
