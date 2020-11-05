@@ -68,14 +68,6 @@ header, footer {
   border-bottom: .125rem solid #33658A;
 }
 
-/* ------ START WRITING YOUR CODE BELOW THIS LINE ------ */
-
-/* NO changes should be made to any of the code above. */
-
-/* NOTE: While you will be using some of the same CSS properties, the VALUES
-   may need to be different in order to style the page correctly. */
-
-
 
    @font-face {
        font-family: Montserrat;
@@ -91,7 +83,6 @@ header, footer {
    }
 
 
-   /* Typography Styles */
 
    html {
        font-family: Montserrat, Arial, sans-serif;
@@ -146,7 +137,6 @@ header, footer {
    }
 
 
-   /* List Styling */
 
    ul {
        margin: 1rem 0rem;
@@ -163,7 +153,6 @@ header, footer {
    }
 
 
-   /* Navigation Menu */
 
    nav {
        padding-left: 0rem;
@@ -193,42 +182,7 @@ header, footer {
    }
 
 
-   /* Footer Styles */
 
    footer {
        text-align: center;
    } 
-
-
-
-
-
-/* Typography Styles */
-
-
-
-
-
-
-/* Link Styling */
-
-
-
-
-
-
-/* List Styling */
-
-
-
-
-
-
-/* Navigation Menu */
-
-
-
-
-
-
-/* Footer Styles */
